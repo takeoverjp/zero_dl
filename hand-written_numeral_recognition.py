@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-import sys, os
 from dataset.mnist import load_mnist
 import numpy as np
 import matplotlib.pylab as plt
